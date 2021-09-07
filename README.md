@@ -1,4 +1,9 @@
-### Hi there 👋
+My name is Diego Santos de Moura and I´m experienced (+15 years) fullstack developer living in Brazil and work at Stefanini as a Full SQL Server.
+
+Contact-me on: LinkedIn
+https://www.linkedin.com/in/diego-santos-de-moura
+
+
 
 <!--
 **diegoxlz/diegoxlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
