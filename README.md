@@ -1,5 +1,20 @@
 My name is Diego Santos de Moura and I´m experienced (+15 years) fullstack developer living in Brazil and work at Stefanini as a Full SQL Server.
 
+Experiences:
+✓ HTML5
+✓ CSS3
+✓ JavaScript
+✓ jQuery
+✓ PHP
+✓ XML
+✓ JSON
+✓ MySQL
+✓ SQL Server
+✓ Excel
+✓ Power BI
+✓ SEO
+✓ Google Analytics
+
 Contact-me on LinkedIn:<br>
 https://www.linkedin.com/in/diego-santos-de-moura
 
