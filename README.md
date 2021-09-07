@@ -18,6 +18,7 @@ Experiences:<br>
 Contact-me on LinkedIn:<br>
 https://www.linkedin.com/in/diego-santos-de-moura
 
+![image](https://user-images.githubusercontent.com/52211429/132362937-4950f018-bb93-464e-bde4-fed9420aa047.png)
 
 
 <!--
