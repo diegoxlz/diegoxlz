@@ -1,4 +1,4 @@
-My name is Diego Santos de Moura and I´m experienced (+15 years) fullstack developer living in Brazil and work at Stefanini as a Full SQL Server Developer.<br><br>
+My name is Diego Santos de Moura and I´m experienced (+15 years) fullstack developer living in Brazil and worr as a Full SQL Server Developer at Stefanini.<br><br>
 
 Experiences:<br>
 ✓ HTML5<br>
